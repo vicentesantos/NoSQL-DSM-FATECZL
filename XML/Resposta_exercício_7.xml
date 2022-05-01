@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carros>
+    <carro id="1">
+        <modelo>Onix</modelo>
+        <preco>R$96.500,00</preco>
+        <motor>1.0</motor>
+        <porta>Quatro Portas</porta>
+        <cores>
+            <cor id="Branco">Pérola</cor>
+            <cor id="Preto">Piano</cor>
+            <cor id="Azul">Céu</cor>
+        </cores>
+        <proprietario>João da Silva</proprietario>
+        <placa>FGS0I49</placa>
+        <ipva>True</ipva>
+        <seguro>Pago</seguro>
+    </carro>
+    <carro id="2">
+        <modelo>Pulse</modelo>
+        <preco>R$126.000,00</preco>
+        <motor>1.3</motor>
+        <porta>Quatro Portas</porta>
+        <cores>
+            <cor id="Branco">Neve</cor>
+            <cor id="Preto">Azulado</cor>
+            <cor id="Azul">Carmin</cor>
+        </cores>
+        <proprietario>Carlos Pereira</proprietario>
+        <placa>FAT2I48</placa>
+        <ipva>False</ipva>
+        <seguro>Sem Seguro</seguro>
+    </carro>
+    <carro id="3">
+        <modelo>Fusion</modelo>
+        <preco>R$75.000,00</preco>
+        <motor>3.0</motor>
+        <porta>Quatro Portas</porta>
+        <cores>
+            <cor id="Branco">Vulcano</cor>
+            <cor id="Preto">Escuro</cor>
+            <cor id="Cinza">Chumbo</cor>
+        </cores>
+        <proprietario>Luiz</proprietario>
+        <placa>FUS2I99</placa>
+        <ipva>Ture</ipva>
+        <seguro>com Seguro</seguro>
+    </carro>
+</carros>

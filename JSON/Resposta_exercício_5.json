@@ -1,0 +1,69 @@
+{
+    "Pessoas" : [
+        {
+            "Nome" : "João Pedro",
+            "Idade" : "25 anos",
+            "Sexo" : "Masculino",
+            "Peso" : "80 kg",
+            "Escolaridade" : {
+                "Ensino Médio" : "Sim",
+                "Graduação" : "Sim",
+                "Pós-graduação" : "Não",
+                "Mestrado" : "Não",
+                "Doutorado" : "Não"
+            }
+        },
+        {
+            "Nome" : "João Pedro",
+            "Idade" : "25 anos",
+            "Sexo" : "Masculino",
+            "Peso" : "55 kg",
+            "Escolaridade" : {
+                "Ensino Médio" : "Sim",
+                "Graduação" : "Sim",
+                "Pós-graduação" : "Sim",
+                "Mestrado" : "Não",
+                "Doutorado" : "Não"
+            }            
+        },
+        {
+            "Nome" : "Maria Aparecida",
+            "Idade" : "45 anos",
+            "Sexo" : "Feminino",
+            "Peso" : "65 kg",
+            "Escolaridade" : {
+                "Ensino Médio" : "Sim",
+                "Graduação" : "Sim",
+                "Pós-graduação" : "Sim",
+                "Mestrado" : "Sim",
+                "Doutorado" : "Sim"
+            }
+        },
+        {
+            "Nome" : "Luciana do Val",
+            "Idade" : "20 anos",
+            "Sexo" : "Feminino",
+            "Peso" : "58 kg",
+            "Escolaridade" : {
+                "Ensino Médio" : "Sim",
+                "Graduação" : "Sim",
+                "Pós-graduação" : "Sim",
+                "Mestrado" : "Sim",
+                "Doutorado" : "Não"
+            }
+        },
+        {
+            "Nome" : "Marcia Pereira",
+            "Idade" : "21 anos",
+            "Sexo" : "Feminino",
+            "Peso" : "69 kg",
+            "Escolaridade" : {
+                "Ensino Médio" : "Sim",
+                "Graduação" : "Sim",
+                "Pós-graduação" : "Sim",
+                "Mestrado" : "Sim",
+                "Doutorado" : "Sim"
+            }
+        }
+    ]
+}

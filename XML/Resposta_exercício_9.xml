@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+    <pessoa id="1">
+        <nome>João Pedro</nome>
+        <idade>25 anos</idade>
+        <sexo>Masculino</sexo>
+        <escolaridade>Graduação</escolaridade>
+        <peso>80 kg</peso>
+    </pessoa>
+    <pessoa id="2">
+        <nome>João Pedro</nome>
+        <idade>25 anos</idade>
+        <sexo>Masculino</sexo>
+        <escolaridade>Pós-graduação</escolaridade>
+        <peso>55 kg</peso>
+    </pessoa>
+    <pessoa id="3">
+        <nome>Maria Aparecida</nome>
+        <idade>45 anos</idade>
+        <sexo>Feminino</sexo>
+        <escolaridade>Pós-graduação</escolaridade>
+        <peso>65 kg</peso>
+    </pessoa>
+    <pessoa id="4">
+        <nome>Luciana do Val</nome>
+        <idade>20 anos</idade>
+        <sexo>Feminino</sexo>
+        <escolaridade>Ensino Médio</escolaridade>
+        <peso>58 kg</peso>
+    </pessoa>
+    <pessoa id="5">
+        <nome>Marcia Pereira</nome>
+        <idade>21 anos</idade>
+        <sexo> Feminino</sexo>
+        <escolaridade>Ensino Médio</escolaridade>
+        <peso>69 kg</peso>
+    </pessoa>
+    <pessoa id="6">
+        <nome>Gislena</nome>
+        <idade>47 anos</idade>
+        <sexo>Feminino</sexo>
+        <escolaridade>Pós-Graduação</escolaridade>
+        <peso>51 kg</peso>
+    </pessoa>
+</pessoas>

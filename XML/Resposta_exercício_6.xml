@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livraria>
+    <livros>
+        <livro id="1">
+            <isbn>ISBN-0-13-713526-2</isbn>
+            <preco>R$85,00</preco>
+            <edicao>3ª Edição</edicao>
+            <titulo>A first course in database systems</titulo>
+            <autores>
+                <autor id="7">Jeffrey Ullman</autor>
+                <autor id="8">Jennifer Widom</autor>
+            </autores>
+            <editora>Pressman</editora>
+        </livro>
+        <livro id="2">
+            <isbn>ISBN-0-13-815504-6</isbn>
+            <preco>R$100,00</preco>
+            <nota>Compre também o livro A First Course e faça um excelente negócio!</nota>
+            <titulo>Database Systems: The Complete Book</titulo>
+            <autores>
+                <autor id="9">Hector Garcia-Molina</autor>
+                <autor id="7">Jeffrey Ullman</autor>
+                <autor id="8">Jennifer Widom</autor>
+            </autores>
+            <editora>Saraiva</editora>
+        </livro>
+        <livro id="3">
+            <isbn>B019OZ902U</isbn>
+            <preco>R$70,00</preco>
+            <nota>Compre também o livro A First Course e faça um excelente negócio!</nota>
+            <titulo>MongoDB</titulo>
+            <autor id="10">Fernando Boaglio</autor>
+            <editora>Casa do Código</editora>
+        </livro>
+    </livros>
+    <revistas>
+        <revista id="4">
+            <titulo>National Geographic</titulo>
+            <mes>Janeiro</mes>
+            <ano>2021</ano>
+        </revista>
+        <revista id="5">
+            <titulo>Newsweek</titulo>
+            <mes>Fevereiro</mes>
+            <ano>2021</ano>
+        </revista>
+        <revista id="6">
+            <titulo>MundoJava</titulo>
+            <mes>Abril</mes>
+            <ano>2021</ano>
+        </revista>
+    </revistas>
+</livraria>

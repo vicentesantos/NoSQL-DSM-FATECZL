@@ -1,0 +1,67 @@
+<pessoas>
+    <pessoa id="1">
+        <nome>João Pedro</nome>
+        <idade>25 anos</idade>
+        <sexo>Masculino</sexo>
+        <peso>80 kg</peso>
+        <escolaridade>
+            <ensinoMedio>Sim</ensinoMedio>
+            <graudacao>Sim</graduacao>
+            <posgraduacao>Não</posgraduacao>
+            <mestrado>Não</mestrado>
+            <doutorado>Não</doutorado>
+        </escolaridade>
+    </pessoa>
+    <pessoa id="2">
+        <nome>João Pedro</nome>
+        <idade>25 anos</idade>
+        <sexo>Masculino</sexo>
+        <peso>55 kg</peso>
+        <escolaridade>
+            <ensinoMedio>Sim</ensinoMedio>
+            <graudacao>Sim</graduacao>
+            <posgraduacao>Sim</posgraduacao>
+            <mestrado>Não</mestrado>
+            <doutorado>Não</doutorado>
+        </escolaridade>
+    </pessoa>
+    <pessoa id="3">
+        <nome>Maria Aparecida</nome>
+        <idade>45 anos</idade>
+        <sexo>Feminino</sexo>
+        <peso>65 kg</peso>
+        <escolaridade>
+            <ensinoMedio>Sim</ensinoMedio>
+            <graudacao>Sim</graduacao>
+            <posgraduacao>Sim</posgraduacao>
+            <mestrado>Sim</mestrado>
+            <doutorado>Sim</doutorado>
+        </escolaridade>
+    </pessoa>
+    <pessoa id="4">
+        <nome>Luciana do Val</nome>
+        <idade>20 anos</idade>
+        <sexo>Feminino</sexo>
+        <peso>58 kg</peso>
+        <escolaridade>
+            <ensinoMedio>Sim</ensinoMedio>
+            <graudacao>Sim</graduacao>
+            <posgraduacao>Sim</posgraduacao>
+            <mestrado>Sim</mestrado>
+            <doutorado>Não</doutorado>
+        </escolaridade>
+    </pessoa>
+    <pessoa id="5">
+        <nome>Marcia Pereira</nome>
+        <idade>21 anos</idade>
+        <sexo> Feminino</sexo>
+        <peso>69 kg</peso>
+        <escolaridade>
+            <ensinoMedio>Sim</ensinoMedio>
+            <graudacao>Sim</graduacao>
+            <posgraduacao>Sim</posgraduacao>
+            <mestrado>Sim</mestrado>
+            <doutorado>Sim</doutorado>
+        </escolaridade>
+    </pessoa>
+</pessoas>

@@ -1,0 +1,46 @@
+{
+    "Pessoas" : [
+        {
+            "Nome" : "João Pedro",
+            "Idade" : "25 anos",
+            "Sexo" : "Masculino",
+            "Escolaridade" : "Graduação",
+            "Peso" : "80 kg"
+        },
+        {
+            "Nome" : "João Pedro",
+            "Idade" : "25 anos",
+            "Sexo" : "Masculino",
+            "Escolaridade" : "Pós-graduação",
+            "Peso" : "55 kg"
+        },
+        {
+            "Nome" : "Maria Aparecida",
+            "Idade" : "45 anos",
+            "Sexo" : "Feminino",
+            "Escolaridade" : "Pós-graduação",
+            "Peso" : "65 kg"
+        },
+        {
+            "Nome" : "Luciana do Val",
+            "Idade" : "20 anos",
+            "Sexo" : "Feminino",
+            "Escolaridade" : "Ensino Médio",
+            "Peso" : "58 kg"
+        },
+        {
+            "Nome" : "Marcia Pereira",
+            "Idade" : "21 anos",
+            "Sexo" : "Feminino",
+            "Escolaridade" : "Ensino Médio",
+            "Peso" : "69 kg"
+        },
+        {
+            "Nome" : "Gislena",
+            "Idade" : "47 anos",
+            "Sexo" : "Feminino",
+            "Escolaridade" : "Pós-graduação",
+            "Peso" : "51 kg"
+        }
+    ]
+}

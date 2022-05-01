@@ -1,0 +1,49 @@
+{
+    "Carro":[
+        {
+            "Modelo" : "Onix",
+            "Preço" : "R$96.500,00",
+            "Motor" : "1.0",
+            "Porta" : "Quatro Portas",
+            "Cores" : {
+                "Branco" : "Pérola", 
+                "Preto" : "Piano", 
+                "Azul" : "Céu"
+            },
+            "Proprietário" : "João da Silva",
+            "Placa" : "FGS0I49",
+            "IPVA pago" : "True",
+            "Seguro" : "Pago"
+        },
+        {
+            "Modelo" : "Pulse",
+            "Preço" : "R$126.500,00",
+            "Motor" : "1.3",
+            "Porta" : "Quatro Portas",
+            "Cores" : {
+                "Branco" : "Neve", 
+                "Preto" : "Azulado", 
+                "Azul" : "Carmin"
+            },
+            "Proprietário" : "Carlos Pereira",
+            "Placa" : "FAT2I48",
+            "IPVA pago" : "False",
+            "Seguro" : "Sem Seguro"
+        },
+        {
+            "Modelo" : "Fusion",
+            "Preço" : "R$75.000,00",
+            "Motor" : "3.0",
+            "Porta" : "Quatro Portas",
+            "Cores" : {
+                "Branco" : "Vulcano", 
+                "Preto" : "Escuro", 
+                "Cinza" : "Chumbo"
+            },
+            "Proprietário" : "Luiz",
+            "Placa" : "FUS2I99",
+            "IPVA pago" : "True",
+            "Seguro" : "Com Seguro"
+        }
+    ]
+}

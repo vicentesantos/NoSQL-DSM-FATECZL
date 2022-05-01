@@ -1,0 +1,45 @@
+{
+    "Livros" : [
+        {
+            "ISBN" : "ISBN-0-13-713526-2",
+            "Preço" : "R$85,00",
+            "Edição" : "3ª Edição",
+            "Título" : "A First Course in Database Systems",
+            "Autores" : ["Jeffrey Ullman",  "Jennifer Widom"],
+            "Editora" : "Pressman"
+        },
+        {
+            "ISBN" : "ISBN-0-13-815504-6",
+            "Preço" : "R$100,00",
+            "Nota" : "Compre também o livro A First Course e faça um excelente negócio!",
+            "Título" : "Database Systems: The Complete Book",
+            "Autores" : ["Hector Garcia-Molina", "Jeffrey Ullman", "Jennifer Widom"],
+            "Editora" : "Saraiva"
+        },
+        {
+            "ISBN" : "B019OZ902U",
+            "Preço" : "R$70,00",
+            "Nota" : "Compre também o livro A First Course e faça um excelente negócio!",
+            "Título" : "MongoDB",
+            "Autores" : "Fernando Boaglio",
+            "Editora" : "Casa do Código"
+        }
+    ],
+    "Revistas" :[
+        {
+            "Título" : "National Geographic",
+            "Mês" : "Janeiro",
+            "Ano" : "2021"
+        },
+        {
+            "Título" : "Newsweek",
+            "Mês" : "Fevereiro",
+            "Ano" : "2021"
+        },
+        {
+            "Título" : "MundoJava",
+            "Mês" : "Abril",
+            "Ano" : "2021"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moradia>
+    <tipo>Apartamento</tipo>
+    <quartos>2</quartos>
+    <suite>1</suite>
+    <caracteristicas>
+        <sala> Com internet</sala>
+        <cozinha>
+            <forno>Imbutido</forno>
+            <geladeira>Duplex</geladeira>
+            <torneira>Água Quente</torneira>
+            <microondas>Grande</microondas>
+        </cozinha>
+    </caracteristicas>
+    <proprietario>Luciana</proprietario>
+    <andar>24ª Andar</andar>
+    <condominio>true</condominio>
+    <seguro>Pago</seguro>
+</moradia>
